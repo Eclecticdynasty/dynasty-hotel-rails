@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# dynasty-hotel-rails
+Rails app for a mock up hotel
+>>>>>>> 5fffa7170d8cb56938028b1a247e7f625bfabb92
